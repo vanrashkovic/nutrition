@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://tm-shopify032-nutrition.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://tm-shopify032-nutrition.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://tm-shopify032-nutrition.myshopify.com/collections/minerals.atom"/>
+  <title>Nutrition supplements</title>
+  <updated>2014-04-09T12:15:30-04:00</updated>
+  <author>
+    <name>Nutrition supplements</name>
+  </author>
+  <entry>
+    <id>https://tm-shopify032-nutrition.myshopify.com/products/286053781</id>
+    <published>2014-04-09T12:15:30-04:00</published>
+    <updated>2014-04-09T12:15:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify032-nutrition.myshopify.com/products/blackmores-tot-cal-mag-d3-60t"/>
+    <title>Blackmores Tot Cal Mag + D3 60t</title>
+    <s:type>Mixtures</s:type>
+    <s:vendor>tm-shopify032-nutrition</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0432/0609/products/blackmores_tot_cal_mag_d3_60t_1.png?v=1397060137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>tm-shopify032-nutrition<br>
+        <strong>Type: </strong>Mixtures<br>
+        <strong>Price: </strong>
+            459.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Well, if you are ready to purchase our goods we will help you to make a right choice. If you have some questions, you can address our support system.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tm-shopify032-nutrition.myshopify.com/products/286053781</id>
+      <title>Default</title>
+      <s:price currency="USD">459.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify032-nutrition.myshopify.com/products/286053601</id>
+    <published>2014-04-09T12:15:07-04:00</published>
+    <updated>2014-04-09T12:15:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify032-nutrition.myshopify.com/products/blackmores-i-folic-150-tabs"/>
+    <title>Blackmores I-Folic 150 Tabs</title>
+    <s:type>Mixtures</s:type>
+    <s:vendor>tm-shopify032-nutrition</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0432/0609/products/blackmores_i-folic_150_tabs_1.png?v=1397060116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>tm-shopify032-nutrition<br>
+        <strong>Type: </strong>Mixtures<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There is nothing to worry about. These products are totally safe for your health. It has passed many various tests without a single failure. It is really a product of a new generation. Our vendors guarantee no side effects. We have a great experience and good reputation in this business. Well, if you are ready to purchase our goods we will help you to make a right choice.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tm-shopify032-nutrition.myshopify.com/products/286053601</id>
+      <title>Default</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify032-nutrition.myshopify.com/products/286053381</id>
+    <published>2014-04-09T12:14:39-04:00</published>
+    <updated>2014-04-09T12:14:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify032-nutrition.myshopify.com/products/blackmores-bio-ace-excell-150-caps"/>
+    <title>Blackmores Bio Ace Excell 150 Caps</title>
+    <s:type>Mixtures</s:type>
+    <s:vendor>tm-shopify032-nutrition</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0432/0609/products/blackmores_bio_ace_excell_150_caps_1.png?v=1397060088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>tm-shopify032-nutrition<br>
+        <strong>Type: </strong>Mixtures<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our main goal is to find the easiest way of treatment. We understand that human's activity is also very dangerous because it could lead to unforeseeable consequences like some complications or even death. Our company states that our goods are of premium quality. There is nothing to worry about. These products are totally safe for your health. It is really a product of a new generation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify032-nutrition.myshopify.com/products/286053381</id>
+      <title>Default</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify032-nutrition.myshopify.com/products/286053301</id>
+    <published>2014-04-09T12:14:28-04:00</published>
+    <updated>2014-04-09T12:14:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify032-nutrition.myshopify.com/products/black-china-labs-straight-jacked-800g"/>
+    <title>Black China Labs Straight Jacked [800g]</title>
+    <s:type>Mixtures</s:type>
+    <s:vendor>tm-shopify032-nutrition</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0432/0609/products/black_china_labs_straight_jacked_800g_1.png?v=1397060079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>tm-shopify032-nutrition<br>
+        <strong>Type: </strong>Mixtures<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is very noble activity to protect health and help people recover. Our main goal is to find the easiest way of treatment. We understand that human's activity is also very dangerous because it could lead to unforeseeable consequences like some complications or even death. Our company states that our goods are of premium quality. There is nothing to worry about.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify032-nutrition.myshopify.com/products/286053301</id>
+      <title>Default</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify032-nutrition.myshopify.com/products/286053205</id>
+    <published>2014-04-09T12:14:19-04:00</published>
+    <updated>2014-04-09T12:14:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify032-nutrition.myshopify.com/products/black-china-labs-straight-epi-75-caps"/>
+    <title>Black China Labs Straight EPI [75 Caps]</title>
+    <s:type>Mixtures</s:type>
+    <s:vendor>tm-shopify032-nutrition</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0432/0609/products/black_china_labs_straight_epi_75_caps_1.png?v=1397060068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>tm-shopify032-nutrition<br>
+        <strong>Type: </strong>Mixtures<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All these diseases are even worse than wars by the quantity of deaths. It is very noble activity to protect health and help people recover. Our main goal is to find the easiest way of treatment. We understand that human's activity is also very dangerous because it could lead to unforeseeable consequences like some complications or even death. These products are totally safe for your health.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify032-nutrition.myshopify.com/products/286053205</id>
+      <title>Default</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify032-nutrition.myshopify.com/products/286053117</id>
+    <published>2014-04-09T12:14:09-04:00</published>
+    <updated>2014-04-09T12:14:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify032-nutrition.myshopify.com/products/black-china-labs-eph-hardcore-120-caps"/>
+    <title>Black China Labs EPH Hardcore [120 Caps]</title>
+    <s:type>Tablets</s:type>
+    <s:vendor>tm-shopify032-nutrition</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0432/0609/products/black_china_labs_eph_hardcore_120_caps_1.png?v=1397060059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>tm-shopify032-nutrition<br>
+        <strong>Type: </strong>Tablets<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From ancient times plague and other infectious diseases have been killing people without leaving them any chance to survive. All these diseases are even worse than wars by the quantity of deaths. It is very noble activity to protect health and help people recover. Our main goal is to find the easiest way of treatment. Our company states that our goods are of premium quality.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify032-nutrition.myshopify.com/products/286053117</id>
+      <title>Default</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify032-nutrition.myshopify.com/products/286052885</id>
+    <published>2014-04-09T12:13:43-04:00</published>
+    <updated>2014-04-09T12:13:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify032-nutrition.myshopify.com/products/axis-labs-myodrol-120-caps"/>
+    <title>AXIS LABS MYODROL (120 CAPS)</title>
+    <s:type>Tablets</s:type>
+    <s:vendor>tm-shopify032-nutrition</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0432/0609/products/axis_labs_myodrol_120_caps_1.png?v=1397060031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>tm-shopify032-nutrition<br>
+        <strong>Type: </strong>Tablets<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our way of life doesn't increase the physiological condition of our body. Alcohol, cigarettes, unhealthy food, stresses and other factors have a great influence on our health. The human's immune system is very uncertain thing because there is a countless quantity of different dangerous viruses and bacteria. All these diseases are even worse than wars by the quantity of deaths.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:variant>
+      <id>https://tm-shopify032-nutrition.myshopify.com/products/286052885</id>
+      <title>Default</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify032-nutrition.myshopify.com/products/286052833</id>
+    <published>2014-04-09T12:13:33-04:00</published>
+    <updated>2014-04-09T12:13:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify032-nutrition.myshopify.com/products/aveeno-1-hydrocortisone-anti-itch-cream"/>
+    <title>Aveeno 1% Hydrocortisone Anti-Itch Cream</title>
+    <s:type>Tablets</s:type>
+    <s:vendor>tm-shopify032-nutrition</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0432/0609/products/aveeno_1_hydrocortisone_anti-itch_cream_1.png?v=1397060023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>tm-shopify032-nutrition<br>
+        <strong>Type: </strong>Tablets<br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We think that it is a real luck to have a strong health. Our way of life doesn't increase the physiological condition of our body. Alcohol, cigarettes, unhealthy food, stresses and other factors have a great influence on our health. The human's immune system is very uncertain thing because there is a countless quantity of different dangerous viruses and bacteria.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:variant>
+      <id>https://tm-shopify032-nutrition.myshopify.com/products/286052833</id>
+      <title>Default</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify032-nutrition.myshopify.com/products/286052521</id>
+    <published>2014-04-09T12:13:00-04:00</published>
+    <updated>2014-04-09T12:13:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify032-nutrition.myshopify.com/products/100-whey-gold-standard-optimum-nutrition-16-pack"/>
+    <title>100% Whey Gold Standard Optimum Nutrition (16 pack)</title>
+    <s:type>Tablets</s:type>
+    <s:vendor>tm-shopify032-nutrition</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0432/0609/products/100_whey_gold_standard_optimum_nutrition_16_pack_1.png?v=1397059989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>tm-shopify032-nutrition<br>
+        <strong>Type: </strong>Tablets<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Health is one of most important things in our life. We think that it is a real luck to have a strong health.</div>
+<div>Our way of life doesn't increase the physiological condition of our body. Alcohol, cigarettes, unhealthy food, stresses and other factors have a great influence on our health.</div>
+<div>The human's immune system is very uncertain thing because there is a countless quantity of different dangerous viruses and bacteria. From ancient times plague and other infectious diseases have been killing people without leaving them any chance to survive.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://tm-shopify032-nutrition.myshopify.com/products/286052521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
